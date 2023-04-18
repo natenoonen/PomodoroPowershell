@@ -1,7 +1,6 @@
 ﻿# Backlog:
 # set Slack to not notify
-# Parse a day of inputs: Item, length and use interactive to move to next day, log distraction, complete
-# Set other notifications
+# Set other notifications to silent
 
 Function Start-PomodoroTimer {
 Param(
